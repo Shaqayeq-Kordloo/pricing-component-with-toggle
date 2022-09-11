@@ -10,7 +10,7 @@
 
 ### Links
 
-- Solution URL: [my solution](https://github.com/Shaqayeq-Kordloo/pricing-component-with-toggle))
+- Solution URL: [my solution](https://github.com/Shaqayeq-Kordloo/pricing-component-with-toggle)
 - Live Site URL: [visit live site!](https://shaqayeq-kordloo.github.io/pricing-component-with-toggle/)
 
 ## My process
