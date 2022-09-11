@@ -4,6 +4,8 @@
 ### Screenshot
 
 ![desktop](https://user-images.githubusercontent.com/100580688/189523100-e76fd0db-1cec-4da0-8bef-c5868860b1f7.png)
+![desktop-hover](![desktop-hover](https://user-images.githubusercontent.com/100580688/189523216-cf504f0a-b82c-4f77-bb34-ce03693ca351.png)
+
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
