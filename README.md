@@ -3,9 +3,9 @@
 
 ### Screenshot
 
-![desktop](https://user-images.githubusercontent.com/100580688/189523100-e76fd0db-1cec-4da0-8bef-c5868860b1f7.png)
-![desktop-hover](https://user-images.githubusercontent.com/100580688/189523216-cf504f0a-b82c-4f77-bb34-ce03693ca351.png)
-![mobile](https://user-images.githubusercontent.com/100580688/189523258-6ca0f765-4a28-477a-9fba-d7dce68bc8be.png)
+Desktop size: ![desktop](https://user-images.githubusercontent.com/100580688/189523100-e76fd0db-1cec-4da0-8bef-c5868860b1f7.png)
+Desktop-size-hover: ![desktop-hover](https://user-images.githubusercontent.com/100580688/189523216-cf504f0a-b82c-4f77-bb34-ce03693ca351.png)
+Mobile-size: ![mobile](https://user-images.githubusercontent.com/100580688/189523258-6ca0f765-4a28-477a-9fba-d7dce68bc8be.png)
 
 
 ### Links
